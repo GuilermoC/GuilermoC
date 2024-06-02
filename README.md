@@ -4,8 +4,8 @@
 
 ### I'm a Full Stack Developer!!
 
-- 👯 I’m currently searching for some Full Stack experience 🧐
-- 🥅 2021 Goals: Improve my Full Stack capabilities
+- 👯 Currently working at Nayan as Junior Frontend Developer 🧳
+- 🥅 2024 Goals: Expand my frontend knowledge
 - ⚽ Fun fact: I enjoy playing football and video games
 
 
