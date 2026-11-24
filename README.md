@@ -2,21 +2,6 @@
 
 [![Connect LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/guilermo-callewaert/)
 
-### I'm a Full Stack Developer!!
-
-- 👯 Currently working at Nayan as Junior Frontend Developer 🧳
-- 🥅 2024 Goals: Expand my frontend knowledge
-- ⚽ Fun fact: I enjoy playing football and video games
-
-
-### Connect with me:
-
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
@@ -37,8 +22,4 @@
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
 <img align="left" alt="Postman" width="26px" src="https://avatars.githubusercontent.com/u/10251060" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-[facebook]: https://www.facebook.com/guilermo.callewaert/
-[twitter]: https://twitter.com/_Gringii_
-[instagram]: https://www.instagram.com/guilermocallewaert/
-[linkedin]: https://www.linkedin.com/in/guilermo-callewaert/
+<img align="left" alt="Salesforce" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/salesforce/salesforce-original.svg" />
